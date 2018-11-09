@@ -1,0 +1,2 @@
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\CM_JUNO and JC_ICR ATE.exe.config
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\x86\Debug\CM_JUNO and JC_ICR ATE.csproj.ResolveComReference.cache

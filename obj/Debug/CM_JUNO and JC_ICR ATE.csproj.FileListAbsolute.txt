@@ -1,0 +1,68 @@
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.csproj.ResolveComReference.cache
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\JC_ICR.Audio.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Fail.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\JC_ICR.Form1.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.IR_Sample_Count.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Placement.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.PleaseWait.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.ProgressBar.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Properties.Resources.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.QR_Scan.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.QR_Scanner.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Rotate.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Selection.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Success.resources
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.csproj.GenerateResource.Cache
+c:\users\vaka\documents\visual studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.exe.licenses
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\CM_JUNO and JC_ICR ATE.exe.config
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\CM_JUNO and JC_ICR ATE.exe
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\CM_JUNO and JC_ICR ATE.pdb
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.AudioLabBasic.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.AudioLabBasic.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.AudioLabEssential.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.AudioLabEssential.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.BasicLab.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.BasicLab.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.MediaLabBasic.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.MediaLabBasic.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.OpenWireEditor.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.OpenWireStudioAudioHost.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.OpenWireStudioAudioHost.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.OpenWireStudioHost.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.OpenWireStudioHost.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.PlotLabBasic.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLab.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLab.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLabAdditional.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLabAdditional.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLabBasic.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.SignalLabBasic.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.TimingLabBasic.Design.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\Mitov.TimingLabBasic.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.Common.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.Net.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.Common.xml
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\bin\Debug\NationalInstruments.Net.xml
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.csprojResolveAssemblyReference.cache
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.csproj.ResolveComReference.cache
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\JC_ICR.Audio.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Fail.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\JC_ICR.Form1.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.PleaseWait.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.ProgressBar.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Properties.Resources.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.QR_Scan.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.QR_Scanner.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Resource1.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Rotate.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Selection.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO_and_JC_ICR_ATE.Success.resources
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.csproj.GenerateResource.Cache
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.exe.licenses
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.exe
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE\obj\Debug\CM_JUNO and JC_ICR ATE.pdb
