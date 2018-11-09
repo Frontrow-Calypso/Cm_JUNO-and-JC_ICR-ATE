@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CM_JUNO and JC_ICR ATE", "CM_JUNO and JC_ICR ATE\CM_JUNO and JC_ICR ATE.csproj", "{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Debug|x86.ActiveCfg = Debug|x86
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Debug|x86.Build.0 = Debug|x86
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Release|x86.ActiveCfg = Release|x86
+		{ABEDB38B-4BF4-498A-BCB2-E1523B9693DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
